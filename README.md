@@ -38,7 +38,7 @@
 ### :fire: My Stats :
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanparasteh&theme=onedark"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanparasteh&theme=onedark&row=1&column=4"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=hasanparasteh&theme=onedark"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosar726&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kosar726&theme=onedark&row=1&column=4"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=kosar726&theme=onedark"/>
 </p>
