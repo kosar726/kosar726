@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-<!--
-**kosar726/kosar726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1 align="center">
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 <p align="center">I'm a backend developer and I try to become a better web developer every day, but what motivates me to learn and move forward is <b>Java Script!</b></p>
+
 <h3>contact with me:</h3>
 <p>
   <p align="left">
@@ -37,6 +42,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=hasanparasteh&theme=onedark&row=1&column=4"/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=hasanparasteh&theme=onedark"/>
 </p>
-
-
--->
