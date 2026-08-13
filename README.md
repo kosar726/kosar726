@@ -34,11 +34,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
-### :fire: My Stats :
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kosar726&theme=onedark"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=kosar726&theme=onedark&row=1&column=4"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=kosar726&theme=onedark"/>
-</p>
